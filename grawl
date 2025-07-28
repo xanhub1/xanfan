@@ -1,1 +1,1 @@
-game:HttpGet("https://raw.githubusercontent.com/xanhub1/xanfan/refs/heads/main/test")
+print("testing")

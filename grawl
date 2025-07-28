@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/xanhub1/xanfan/main/test
+game:HttpGet("https://raw.githubusercontent.com/xanhub1/xanfan/main/test")
